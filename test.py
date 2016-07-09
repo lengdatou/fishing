@@ -2,7 +2,7 @@
 '''
 Created on 2016年3月2日
 
-@author: RD04
+@author: lengwei
 '''
 
 import json
